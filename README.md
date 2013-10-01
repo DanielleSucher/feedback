@@ -1,4 +1,4 @@
-# holman/feedback
+# janl/feedback
 
 This is a quick little ask-me-anything type of repository (inspired by
 [holman/feedback](/holman/feedback)).
