@@ -10,6 +10,13 @@ value feedback and conversations about the topics that interest me.
 If you are looking for support for individual open source software, it
 is best to use their official support channels.
 
+Find some of my work:
+
+ - [Writing](http://writing.jan.io)
+ - [Apache CouchDB](http://couchdb.apache.org)
+ - [Hoodie](http://hood.ie) / [Hoodie Blog](http://blog.hood.ie)
+ - [mustache.js](https://github.com/janl/mustache.js)
+
 ---
 
 ### Ask a question
