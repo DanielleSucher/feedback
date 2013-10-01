@@ -1,7 +1,7 @@
 # janl/feedback
 
 This is a quick little ask-me-anything type of repository (inspired by
-[holman/feedback](/holman/feedback)).
+[holman/feedback](https://github.com/holman/feedback)).
 
 I do a bunch of talks and work on some public open source software. I’d
 be happy to answer any questions you might have for me personally. I
